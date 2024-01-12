@@ -1,0 +1,14 @@
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\obj\Debug\net6.0\Oppgave  Lagerstyringssystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\obj\Debug\net6.0\Oppgave  Lagerstyringssystem.AssemblyInfoInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\obj\Debug\net6.0\Oppgave  Lagerstyringssystem.AssemblyInfo.cs
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\obj\Debug\net6.0\Oppgave  Lagerstyringssystem.csproj.CoreCompileInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\bin\Debug\net6.0\Oppgave  Lagerstyringssystem.exe
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\bin\Debug\net6.0\Oppgave  Lagerstyringssystem.deps.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\bin\Debug\net6.0\Oppgave  Lagerstyringssystem.runtimeconfig.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\bin\Debug\net6.0\Oppgave  Lagerstyringssystem.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\bin\Debug\net6.0\Oppgave  Lagerstyringssystem.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\obj\Debug\net6.0\Oppgave  Lagerstyringssystem.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\obj\Debug\net6.0\refint\Oppgave  Lagerstyringssystem.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\obj\Debug\net6.0\Oppgave  Lagerstyringssystem.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\obj\Debug\net6.0\Oppgave  Lagerstyringssystem.genruntimeconfig.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave  Lagerstyringssystem\Oppgave  Lagerstyringssystem\obj\Debug\net6.0\ref\Oppgave  Lagerstyringssystem.dll
